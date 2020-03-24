@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100vw;
+    height: 40px;
+    background-color: black;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.navlink {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Baloo 2', cursive;
+}
+
+.home-image {
+    width: 100vw;
+}
