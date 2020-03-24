@@ -6,8 +6,12 @@
 
 nav {
     width: 100vw;
-    height: 40px;
+    height: 60px;
     background-color: black;
+}
+
+ul {
+    display: inline-block;
 }
 
 li {
@@ -21,8 +25,40 @@ li {
     text-decoration: none;
     padding: 10px;
     font-family: 'Baloo 2', cursive;
+    font-size: 1.5rem;
+}
+
+.home-link {
+    color: white;
+    text-decoration: none;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 2rem;
+    margin: 0 10px;
 }
 
 .home-image {
     width: 100vw;
+    height: 550px;
+    object-fit: cover;
+}
+
+.welcome {
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 800;
+}
+
+footer {
+    width: 100vw;
+    height: 30px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+}
+
+@media (max-width: 800px) {
+    ul {
+        visibility: hidden;
+    }
 }
