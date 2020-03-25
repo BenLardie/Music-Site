@@ -2,3 +2,4 @@ url: https://benlardie.github.io/Music-Site
 baseurl: /
 title: Ms.Sanders Class 
 collections:
+  classes: 
