@@ -3,3 +3,13 @@ layout: index
 ---
 
 <h1>Choir Page</h1>
+
+{% for post in site.choir %}
+
+<h2>{{post.title}}</h2>
+
+<div class="content">
+    {{post.content}}
+</div>
+
+{% endfor %}

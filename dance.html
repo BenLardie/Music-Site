@@ -3,3 +3,13 @@ layout: index
 ---
 
 <h1>Dance Page</h1>
+
+{% for post in site.dance %}
+
+<h2>{{post.title}}</h2>
+
+<div class="content">
+    {{post.content}}
+</div>
+
+{% endfor %}

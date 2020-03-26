@@ -3,4 +3,7 @@ baseurl: /
 title: Ms.Sanders Class 
 collections:
   classes:
-    output: true
+  band:
+  choir:
+  drama:
+  dance:
