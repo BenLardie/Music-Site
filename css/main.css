@@ -49,6 +49,58 @@ li {
     font-weight: 800;
 }
 
+.danceheader{
+    height: 250px;
+    width: 100vw;
+    background-image: url('../images/danceheader.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page-header {
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 5rem;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+.drama-header {
+    height: 250px;
+    width: 100vw;
+    background-image: url('../images/dramaheader.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.class-header {
+    height: 250px;
+    width: 100vw;
+    background-image: url('../images/classheader.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.choir-header {
+    height: 250px;
+    width: 100vw;
+    background-image: url('../images/choirheader.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.band-header {
+    height: 250px;
+    width: 100vw;
+    background-image: url('../images/bandheader.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+
 footer {
     width: 100vw;
     height: 30px;
@@ -57,7 +109,7 @@ footer {
     bottom: 0;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 950px) {
     ul {
         visibility: hidden;
     }
