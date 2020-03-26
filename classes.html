@@ -4,12 +4,12 @@ layout: index
 
 <h1>Classes Page</h1>
 
-{% for post in site.classes%}
+{% for class in site.classes %}
 
-<h2>{{post.title}}</h2>
+<h2>{{class.title}}</h2>
 
 <div class="content">
-    {{content}}
+    {{class.content}}
 </div>
 
 {% endfor %}
