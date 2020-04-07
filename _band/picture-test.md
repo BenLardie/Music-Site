@@ -2,4 +2,4 @@
 title: picture test
 
 ---
-![](static/images/danceheader.jpg)
+![](https://benlardie.github.io/Music-Site/images/pancakes.gif)
