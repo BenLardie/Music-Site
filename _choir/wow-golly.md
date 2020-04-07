@@ -1,6 +1,5 @@
 ---
 title: Wow Golly
-published: false
 
 ---
 # wow
@@ -10,3 +9,5 @@ published: false
 heading 4
 
 no heading here
+
+![](/images/classheader.jpg)
