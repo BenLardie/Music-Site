@@ -55,6 +55,7 @@ nav {
     font-family: 'Baloo 2', cursive;
     font-size: 1.5rem;
     visibility: hidden;
+    cursor: pointer;
 }
 
 .home-image {
@@ -129,10 +130,12 @@ nav {
 
 .post h1, h2, h3, h4 {
     font-family: 'Baloo 2', cursive;
+    padding: 20px;
 }
 
 .post p {
     font-family: 'Montserrat', sans-serif;
+    width: 90%;
 }
 
 .post img {
@@ -149,7 +152,7 @@ nav {
     overflow: hidden;
     padding-top: 56.25%;
     width: 80%;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 .iframe {
