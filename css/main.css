@@ -6,18 +6,27 @@
 
 nav {
     width: 100vw;
-    height: 60px;
+    height: 100%;
     background-color: black;
 }
 
-ul {
+.nav-menu {
     display: inline-block;
 }
 
-li {
+.nav-menu.open {
+    display: block;
+}
+
+.link {
     list-style: none;
     display: inline-block;
     margin: 10px 20px;
+}
+
+.link.open {
+    display: block;
+    text-align: center;
 }
 
 .navlink {
@@ -26,6 +35,7 @@ li {
     padding: 10px;
     font-family: 'Baloo 2', cursive;
     font-size: 1.5rem;
+    display: inline-block;
 }
 
 .home-link {
@@ -34,6 +44,17 @@ li {
     font-family: 'Berkshire Swash', cursive;
     font-size: 2rem;
     margin: 0 10px;
+}
+
+.menu-button {
+    color: white;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    right: 30px;
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.5rem;
+    visibility: hidden;
 }
 
 .home-image {
@@ -124,7 +145,12 @@ footer {
 }
 
 @media (max-width: 950px) {
-    ul {
-        visibility: hidden;
+
+    .nav-menu {
+        display: none;
+    }
+
+    .menu-button {
+    visibility: visible;
     }
 }
