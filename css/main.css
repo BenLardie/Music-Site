@@ -145,8 +145,11 @@ nav {
 
 .iframe-container {
     position: relative;
+    display: block;
     overflow: hidden;
     padding-top: 56.25%;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .iframe {
