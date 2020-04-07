@@ -121,6 +121,28 @@ nav {
     background-repeat: no-repeat
 }
 
+.post {
+    width: 90%;
+    margin: 30px auto;
+    height: 100%;
+}
+
+.post h1, h2, h3, h4 {
+    font-family: 'Baloo 2', cursive;
+}
+
+.post p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
 .iframe-container {
     position: relative;
     overflow: hidden;
