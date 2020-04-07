@@ -10,4 +10,4 @@ Wow look at this content home so cool
 
 IT'S A PICTURE
 
-![](/images/home-image.jpg)
+![](https://benlardie.github.io/Music-Site/images/home-image.jpg)
