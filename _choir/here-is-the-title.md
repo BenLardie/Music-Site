@@ -1,6 +1,5 @@
 ---
 title: Here is the title
-published: false
 
 ---
 Here the pdf
