@@ -5,6 +5,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- _dance/this-is-another-test.md
-- _dance/wow-dance.md
