@@ -6,8 +6,6 @@ fields:
   name: title
   label: title
 pages:
-- _choir/here-is-the-title.md
-- _choir/wow-golly.md
 - _dance/snippet-test.md
 - _dance/this-is-another-test.md
 - _dance/wow-dance.md
