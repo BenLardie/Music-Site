@@ -5,12 +5,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- _band/band-test.md
-- _band/picture-test.md
-- _choir/wow-golly.md
-- _classes/please-work.md
-- _dance/snippet-test.md
-- _dance/this-is-another-test.md
-- _dance/wow-dance.md
-- _drama/lesson-test.md
