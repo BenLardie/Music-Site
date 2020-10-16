@@ -6,4 +6,5 @@ fields:
   name: title
   label: title
 pages:
+- _dance/remembrance-day.md
 - _music/bucket-drumming.md
