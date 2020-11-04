@@ -1,5 +1,5 @@
 ---
-title: LINE RIDER - Question Guide
+title: Rider Guide Questions
 
 ---
 
