@@ -6,6 +6,7 @@ fields:
   name: title
   label: title
 pages:
+- _band/2020-winter-concert.md
 - _dance/history-of-ballet.md
 - _drama/choral-speaking-silly-poems.md
 - _drama/news-broadcast.md
