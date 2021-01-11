@@ -1,5 +1,5 @@
 ---
-title: Canadian Winter Paintings Composing Assignment
+title: Canadian Paintings
 
 ---
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS8zQeoNNHgMVwuN6F4MZKnD6L-kJq1Uru8yAKqCwXR79kb34wmxQPYnoaVH2B4TOCIRa7cN6wONJUS/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSPyRxlJnxIWzvET-vbVWW76Bv6rsgbxIQHrD1K5w7MKkY-sg2vzqQuPwQfi5mc0gZSew2gqwTW79EH/pub?embedded=true"></iframe>
