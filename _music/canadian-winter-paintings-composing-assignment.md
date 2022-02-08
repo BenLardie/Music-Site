@@ -2,7 +2,4 @@
 title: Canadian Paintings
 
 ---
-
-<div class='iframe-container'>
-<iframe class='iframe' src="https://docs.google.com/document/d/e/2PACX-1vSPyRxlJnxIWzvET-vbVWW76Bv6rsgbxIQHrD1K5w7MKkY-sg2vzqQuPwQfi5mc0gZSew2gqwTW79EH/pub?embedded=true" allowfullscreen></iframe>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfeRr-0W8lMONgxwRMmaT461d6bRmOZ2dUCocmM-jy6h_HK3NHc-gu4OoHw9RbSxVycNjt0E-GyRDR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
